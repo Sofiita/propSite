@@ -1,0 +1,58 @@
+/*################################
+            LAYOUT
+################################*/
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both
+}
+
+.half {
+  float: left;
+  width: 50%;
+}
+
+.third {
+  float: left;
+  width: 33.33%;
+}
+
+.twoThirds {
+  float: left;
+  width: 66.66%;
+}
+
+.quarter {
+  float: left;
+  width: 25%;
+}
+
+.threeQuarters {
+  float: left;
+  width: 75%;
+}
+
+.last {
+  margin-right: 0;
+}
+
+/*################################
+            HERO
+################################*/
+
+
+
+/*################################
+            DESTACADOS
+################################*/
+
+/*################################
+            FOOTER
+################################*/
